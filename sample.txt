@@ -1,0 +1,3 @@
+hi is the 1st mlops github class
+
+we all are learning mlops
